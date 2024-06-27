@@ -1,0 +1,6 @@
+# machine_learning_pro
+Employee Salary Prediction Application (Python, AI Algorithms, GUI)
+
+Developed an application in Python that predicts employee salaries based on various factors using machine learning algorithms .
+
+Implemented a Graphical User Interface (GUI) using libraries like Tkinter to provide a user-friendly experience for inputting data and viewing predictions.
